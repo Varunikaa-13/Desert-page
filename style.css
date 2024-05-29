@@ -41,12 +41,12 @@ nav ul li {
 nav ul li a{
 	text-decoration: none;
 	color: #fff;
-	font-size: `15px;
+	font-size: 15px;
 }
 .add {
      list-style:none;
     display:inline-block;
-    margin left:60px;
+    margin-left:60px;
     padding-left: 70%;
     height:12%;
 	display:flex;
@@ -83,7 +83,7 @@ h1{
 p{
 	color:#fff;
 	font-size:11px;
-	line line-height: 15px;
+	line-height: 15px;
 }
 button
 {
